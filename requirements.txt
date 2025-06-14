@@ -3,5 +3,6 @@ flask-cors
 opencv-python
 numpy
 scikit-image
+imagehash
 Pillow
 gunicorn
